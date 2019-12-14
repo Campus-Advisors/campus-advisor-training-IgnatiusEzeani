@@ -19,7 +19,7 @@ In this module you will be introduced to Git. This module will cover:
 
 [:tv: Module 1.1 Video](https://youtu.be/uWsXEmaM3PA)
 
-:notebook: Complete Module 1.1 Assignment
+[:notebook: Complete Module 1.1 Assignment](https://github.com/Campus-Advisors/campus-advisor-training-IgnatiusEzeani/blob/master/Module%201/Module%201.1%20Assignment.md)
 
 ### Module 1.2: The Three State Model
 
