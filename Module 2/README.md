@@ -17,22 +17,22 @@ In this module you will be introduced to GitHub. This module will cover:
 
 [:tv: Module 2.1 Video](https://youtu.be/R2bLo-KiYlU)
 
-:notebook: Complete Module 2.1 Assignment
+[:notebook: Complete Module 2.1 Assignment](https://github.com/Campus-Advisors/campus-advisor-training-IgnatiusEzeani/blob/master/Module%202/Module%202.1%20Assignment.md)
 
 ### Module 2.2: Fetching and Pulling from a Remote
 
 [:tv: Module 2.2 Video](https://youtu.be/gNaCC_8B1k0)
 
-:notebook: Complete Module 2.2 Assignment
+[:notebook: Complete Module 2.2 Assignment](https://github.com/Campus-Advisors/campus-advisor-training-IgnatiusEzeani/blob/master/Module%202/Module%202.2%20Assignment.md)
 
 ### Module 2.3: GitHub Workflow
 
 [:tv: Module 2.3 Video](https://youtu.be/SoaAoATcUxU)
 
-:notebook: Complete Module 2.3 Assignment
+[:notebook: Complete Module 2.3 Assignment](https://github.com/Campus-Advisors/campus-advisor-training-IgnatiusEzeani/blob/master/Module%202/Module%202.1%20Assignment.md)
 
 ### Module 2.4: Merge Conflicts
 
 [:tv: Module 2.4 Video](https://youtu.be/c1210JclnPw)
 
-:notebook: Complete Module 2.4 Assignment
+[:notebook: Complete Module 2.4 Assignment](https://github.com/Campus-Advisors/campus-advisor-training-IgnatiusEzeani/blob/master/Module%202/Module%202.1%20Assignment.md)
