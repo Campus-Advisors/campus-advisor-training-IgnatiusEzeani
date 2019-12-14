@@ -31,7 +31,7 @@ In this module you will be introduced to Git. This module will cover:
 
 [:tv: Module 1.3 Video](https://youtu.be/3zmolo8YRO8)
 
-:notebook: Complete Module 1.3 Assignment
+[:notebook: Complete Module 1.3 Assignment](https://github.com/Campus-Advisors/campus-advisor-training-IgnatiusEzeani/blob/master/Module%201/Module%201.3%20Assignment.md)
 
 ### Module 1.4: Branches and Merging
 
