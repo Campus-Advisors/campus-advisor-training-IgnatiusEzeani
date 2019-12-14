@@ -37,6 +37,6 @@ In this module you will be introduced to Git. This module will cover:
 
 [:tv: Module 1.4 Video](https://youtu.be/2YDoQZ9nZ4g)
 
-:notebook: Complete Module 1.4 Assignment
+[:notebook: Complete Module 1.4 Assignment](https://github.com/Campus-Advisors/campus-advisor-training-IgnatiusEzeani/blob/master/Module%201/Module%201.4%20Assignment.md)
 
 
